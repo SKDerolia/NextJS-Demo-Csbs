@@ -16,6 +16,8 @@ export default function Home() {
       <Link href="/about">About Page</Link>
       <Link href="/login">Login Page</Link>
       <Link href="/studentlist">Student List Page</Link>
+      <Link href="/study">Study Page</Link>
+      <Link href="/productlist">Product List Page</Link>
 
     </main>
   );
